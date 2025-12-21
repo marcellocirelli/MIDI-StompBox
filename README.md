@@ -1,7 +1,7 @@
 # MIDI Stompbox Controller
 
 A **USB MIDI stompbox controller** built for hands-free control of effects, samples, and parameters in live performance and studio workflows.
-
+![IMG_2284](https://github.com/user-attachments/assets/d7ada83d-01bb-497f-9f9e-8efe20071d4f)
 This project focuses on reliable foot-operated MIDI control using a compact enclosure, momentary switches, and a microcontroller-based USB MIDI interface.
 
 ## Overview
